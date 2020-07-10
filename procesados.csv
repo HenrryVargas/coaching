@@ -1,0 +1,70 @@
+,Marcatemporal,EDAD,SEXO,estudios,TIPOTRABAJO,FUNCIONDESARROLLADA,GestionaEquipos,NumeroPersonas,Segmento
+0,2020/06/12 8:06:26 a. m. GMT,42,Mujer,Postgrado / Máster / Doctorado,Cuenta ajena,Puesto intermedio,Sí,1-5 personas,1
+1,2020/06/12 9:33:00 a. m. GMT,29,Mujer,Postgrado / Máster / Doctorado,Cuenta ajena,Empleado,No,+ de 20 personas,0
+2,2020/06/12 9:33:52 a. m. GMT,33,Hombre,Postgrado / Máster / Doctorado,Cuenta ajena,Puesto intermedio,Sí,1-5 personas,1
+3,2020/06/12 9:36:30 a. m. GMT,41,Hombre,Estudios universitarios,Cuenta ajena,Puesto directivo,Sí,+ de 20 personas,1
+4,2020/06/12 10:52:23 a. m. GMT,27,Hombre,Postgrado / Máster / Doctorado,Cuenta ajena,Empleado,No,6-10 personas,0
+5,2020/06/12 11:38:03 a. m. GMT,52,Hombre,Postgrado / Máster / Doctorado,Cuenta ajena,Puesto intermedio,Sí,11-20 personas,1
+6,2020/06/12 11:43:24 a. m. GMT,40,Hombre,Estudios universitarios,Cuenta ajena,Puesto intermedio,Sí,11-20 personas,1
+7,2020/06/12 12:52:49 p. m. GMT,39,Mujer,Estudios universitarios,Cuenta ajena,Empleado,Sí,1-5 personas,0
+8,2020/06/12 1:08:38 p. m. GMT,44,Mujer,Formación Profesional,Cuenta ajena,Empleado,Sí,+ de 20 personas,0
+9,2020/06/12 1:19:24 p. m. GMT,42,Mujer,Formación Profesional,Cuenta ajena,Empleado,No,1-5 personas,0
+10,2020/06/12 1:29:09 p. m. GMT,37,Mujer,Estudios universitarios,"Cuenta propia (autónomo, emprendedor)",Puesto directivo,No,6-10 personas,0
+11,2020/06/12 1:29:17 p. m. GMT,48,Mujer,Postgrado / Máster / Doctorado,Cuenta ajena,Empleado,No,1-5 personas,0
+12,2020/06/12 1:38:53 p. m. GMT,32,Hombre,Postgrado / Máster / Doctorado,Cuenta ajena,Empleado,No,1-5 personas,0
+13,2020/06/12 2:04:55 p. m. GMT,43,Mujer,Estudios universitarios,Cuenta ajena,Empleado,Sí,6-10 personas,0
+14,2020/06/12 2:19:46 p. m. GMT,46,Mujer,Postgrado / Máster / Doctorado,Cuenta ajena,Empleado,No,1-5 personas,0
+15,2020/06/12 3:17:23 p. m. GMT,41,Mujer,Estudios universitarios,"Cuenta propia (autónomo, emprendedor)",Independiente ,No,11-20 personas,0
+16,2020/06/12 3:28:26 p. m. GMT,43,Mujer,Postgrado / Máster / Doctorado,Funcionario/a,Empleado,Sí,6-10 personas,0
+17,2020/06/12 6:14:52 p. m. GMT,48,Hombre,Postgrado / Máster / Doctorado,"Cuenta propia (autónomo, emprendedor)",Gerencia,Sí,+ de 20 personas,1
+18,2020/06/13 7:11:35 a. m. GMT,42,Hombre,Estudios universitarios,Cuenta ajena,Puesto intermedio,Sí,6-10 personas,1
+19,2020/06/13 7:24:38 a. m. GMT,53,Hombre,Bachiller / Secundaria,Funcionario/a,Empleado,No,1-5 personas,0
+20,2020/06/13 7:56:55 a. m. GMT,41,Hombre,Estudios universitarios,Cuenta ajena,Empleado,Sí,6-10 personas,1
+21,2020/06/13 8:07:23 a. m. GMT,38,Hombre,Formación Profesional,"Cuenta propia (autónomo, emprendedor)",Gerencia,Sí,1-5 personas,1
+22,2020/06/13 8:15:50 a. m. GMT,37,Hombre,Formación Profesional,Cuenta ajena,Empleado,No,1-5 personas,0
+23,2020/06/13 8:30:06 a. m. GMT,40,Hombre,EGB / Primaria,"Cuenta propia (autónomo, emprendedor)",Gerencia,Sí,1-5 personas,1
+24,2020/06/13 8:41:19 a. m. GMT,38,Hombre,Postgrado / Máster / Doctorado,Cuenta ajena,Puesto intermedio,No,1-5 personas,1
+25,2020/06/13 9:36:18 a. m. GMT,36,Hombre,Estudios universitarios,"Cuenta propia (autónomo, emprendedor)",Gerencia,No,11-20 personas,1
+26,2020/06/13 9:44:32 a. m. GMT,33,Hombre,Postgrado / Máster / Doctorado,"Cuenta propia (autónomo, emprendedor)",Todos ellos,Sí,1-5 personas,1
+27,2020/06/13 9:55:15 a. m. GMT,44,Hombre,Formación Profesional,Cuenta ajena,Puesto intermedio,Sí,6-10 personas,1
+28,2020/06/13 11:25:54 a. m. GMT,44,Hombre,Formación Profesional,Cuenta ajena,Empleado,Sí,1-5 personas,1
+29,2020/06/13 11:46:02 a. m. GMT,55,Mujer,Estudios universitarios,"Cuenta propia (autónomo, emprendedor)",Gerencia,No,+ de 20 personas,0
+30,2020/06/13 11:50:25 a. m. GMT,29,Mujer,Postgrado / Máster / Doctorado,"Cuenta propia (autónomo, emprendedor)",Arquitecta ,Sí,11-20 personas,1
+31,2020/06/13 12:13:39 p. m. GMT,52,Mujer,Bachiller / Secundaria,Opositora,Opositora,Sí,+ de 20 personas,1
+32,2020/06/13 12:17:04 p. m. GMT,45,Mujer,Estudios universitarios,"Cuenta propia (autónomo, emprendedor)",Autónoma ,No,6-10 personas,0
+33,2020/06/13 12:30:47 p. m. GMT,59,Mujer,Formación Profesional,Desempleado/a,Empleado,No,11-20 personas,0
+34,2020/06/13 12:49:04 p. m. GMT,41,Mujer,Postgrado / Máster / Doctorado,Cuenta ajena,Puesto intermedio,Sí,6-10 personas,1
+35,2020/06/13 1:09:18 p. m. GMT,45,Mujer,Postgrado / Máster / Doctorado,Cuenta ajena,Empleado,Sí,6-10 personas,0
+36,2020/06/13 1:30:45 p. m. GMT,40,Mujer,Formación Profesional,Funcionario/a,Empleado,No,+ de 20 personas,0
+37,2020/06/13 1:42:37 p. m. GMT,42,Mujer,Formación Profesional,Cuenta ajena,Empleado,No,1-5 personas,0
+38,2020/06/13 3:31:02 p. m. GMT,42,Mujer,Formación Profesional,Cuenta ajena,Empleado,No,+ de 20 personas,0
+39,2020/06/13 3:31:44 p. m. GMT,42,Hombre,Estudios universitarios,Funcionario/a,Empleado,No,6-10 personas,0
+40,2020/06/13 3:51:35 p. m. GMT,34,Hombre,Estudios universitarios,Funcionario/a,Empleado,Sí,1-5 personas,1
+41,2020/06/13 4:52:51 p. m. GMT,40,Mujer,Formación Profesional,Funcionario/a,Empleado,No,11-20 personas,0
+42,2020/06/13 5:21:53 p. m. GMT,51,Hombre,Postgrado / Máster / Doctorado,Cuenta ajena,Gerencia,Sí,+ de 20 personas,1
+43,2020/06/13 5:28:39 p. m. GMT,28,Mujer,Postgrado / Máster / Doctorado,Funcionario/a,Puesto intermedio,Sí,6-10 personas,1
+44,2020/06/13 5:29:35 p. m. GMT,51,Hombre,Postgrado / Máster / Doctorado,Cuenta ajena,Gerencia,Sí,+ de 20 personas,1
+45,2020/06/13 6:35:06 p. m. GMT,49,Hombre,Formación Profesional,Funcionario/a,Empleado,Sí,+ de 20 personas,1
+46,2020/06/13 7:16:55 p. m. GMT,56,Hombre,Estudios universitarios,Desempleado/a,Gerencia,Sí,+ de 20 personas,1
+47,2020/06/13 9:46:07 p. m. GMT,40,Mujer,Estudios universitarios,Cuenta ajena,Puesto intermedio,Sí,1-5 personas,1
+48,2020/06/14 5:09:45 a. m. GMT,31,Mujer,Postgrado / Máster / Doctorado,Desempleado/a,Empleado,Sí,1-5 personas,0
+49,2020/06/14 5:20:33 a. m. GMT,38,Hombre,Formación Profesional,"Cuenta propia (autónomo, emprendedor)",Gerencia,Sí,1-5 personas,1
+50,2020/06/14 9:02:33 a. m. GMT,40,Mujer,Estudios universitarios,Cuenta ajena,Puesto directivo,Sí,6-10 personas,1
+51,2020/06/14 9:52:13 a. m. GMT,54,Hombre,Postgrado / Máster / Doctorado,Cuenta ajena,Puesto directivo,Sí,+ de 20 personas,1
+52,2020/06/14 11:21:16 a. m. GMT,43,Mujer,Estudios universitarios,Cuenta ajena,Empleado,No,1-5 personas,0
+53,2020/06/14 1:34:36 p. m. GMT,42,Mujer,Estudios universitarios,"Cuenta propia (autónomo, emprendedor)",Gerencia,Sí,11-20 personas,1
+54,2020/06/14 7:01:55 p. m. GMT,51,Mujer,Formación Profesional,Cuenta ajena,Puesto intermedio,Sí,1-5 personas,1
+55,2020/06/14 7:11:18 p. m. GMT,44,Mujer,Postgrado / Máster / Doctorado,Cuenta ajena,Empleado,Sí,1-5 personas,0
+56,2020/06/14 8:37:24 p. m. GMT,31,Mujer,Postgrado / Máster / Doctorado,Desempleado/a,Gerencia,Sí,+ de 20 personas,1
+57,2020/06/14 11:10:14 p. m. GMT,42,Mujer,Estudios universitarios,"Cuenta propia (autónomo, emprendedor)",Gerencia,Sí,11-20 personas,1
+58,2020/06/15 5:24:27 a. m. GMT,43,Mujer,Estudios universitarios,Cuenta ajena,Empleado,No,+ de 20 personas,0
+59,2020/06/15 6:12:11 a. m. GMT,49,Prefiero no decirlo,Postgrado / Máster / Doctorado,Cuenta ajena,Puesto directivo,Sí,11-20 personas,1
+60,2020/06/15 8:10:34 a. m. GMT,49,Mujer,Estudios universitarios,"Cuenta propia (autónomo, emprendedor)",Gerencia,Sí,1-5 personas,1
+61,2020/06/16 3:53:33 a. m. GMT,36,Mujer,Estudios universitarios,Desempleado/a,Empleado,Sí,6-10 personas,0
+62,2020/06/16 2:59:30 p. m. GMT,42,Hombre,Estudios universitarios,Funcionario/a,Empleado,Sí,1-5 personas,1
+63,2020/06/16 3:37:05 p. m. GMT,36,Mujer,Postgrado / Máster / Doctorado,Cuenta ajena,Puesto intermedio,No,6-10 personas,0
+64,2020/06/16 10:24:20 p. m. GMT,34,Mujer,Estudios universitarios,Funcionario/a,Empleado,Sí,1-5 personas,0
+65,2020/06/17 11:04:51 a. m. GMT,48,Mujer,Postgrado / Máster / Doctorado,Cuenta ajena,Empleado,No,6-10 personas,0
+66,2020/06/17 12:37:00 p. m. GMT,32,Hombre,Estudios universitarios,Funcionario/a,Puesto intermedio,Sí,1-5 personas,1
+67,2020/06/20 8:34:42 p. m. GMT,35,Mujer,Postgrado / Máster / Doctorado,Desempleado/a,Puesto directivo,Sí,6-10 personas,1
+68,2020/06/23 8:18:06 a. m. GMT,50,Prefiero no decirlo,Bachiller / Secundaria,Cuenta ajena,Puesto intermedio,Sí,11-20 personas,1
